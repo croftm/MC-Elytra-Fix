@@ -1,0 +1,4 @@
+name: Mcelfix
+version: '${project.version}'
+main: mcelfix.mcelfix.Mcelfix
+api-version: 1.18
